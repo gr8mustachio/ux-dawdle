@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+The objective of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface. A DAW is a digital audio workstation used to create, edit, and record music, used mostly by musicians, producers, and audio engineers. 
 
 ## Methods
 
