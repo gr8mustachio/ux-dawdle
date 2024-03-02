@@ -104,6 +104,7 @@ As expected, all personas had something to do with a desire to create music or p
 ## Conclusions
 <!--!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!-->
 
+From our findings and methods, We've discovered that DAW applications are often too expensive and don't tend to be supported across many platforms or they lack some level of compatibility when dealing with certain audio file types. There is often a steep learning curve when approaching a new DAW application due to the complexity of creating music. There can often be so many windows on the screen at one time and so many options that might not be easily accessible that it might be offputting to new users.
 
 
 ## Caveats
