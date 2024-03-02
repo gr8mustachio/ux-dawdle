@@ -7,7 +7,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 <!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!! -->
 
 ### Competitive Analysis
-We investigated 5 different products to gain insight about our competitors with the criteria of their strengths, weaknesses, quality level, price/cost, and which platforms they're available on.
+To begin, our UX team performed competitive analyses on 5 seperate competitors that are already established in the industry to get inspiration and see what could be improved in our application. We evaluated competitors based on 5 different metrics: Strengths, Weaknesses, Quality, Platforms, and Cost (platform ended up not mattering due to DAWdle being Windows exclusive). We made sure to find a variety of payment options for the competition, from one-time liscense fees, to subscription plans, to free open-source software. 
 - Strengths - What do they do well that stands out against other competitors.
 - Weaknesses - what features are they missing that are common.
 - Quality level - What is the percetion of the products from the point of view of the customer.
@@ -15,10 +15,10 @@ We investigated 5 different products to gain insight about our competitors with 
 - Platorm - what operating systems or devices can the product be used on.
 
 ### Heuristic Evaluation
-We evaluated out top competitor and did a more thorough investigation into the the features and public perception of the products. In this case, we evaluated FL Studio
+Our last research method we used was heuristic evaluation, in which we evaluated one of the products we investigated during the competitive alalysis phase of our project. We decided to evaluate FL Studio 20, a go-to to many producers, particularly in the hip-hop and electronic music genres. We evaulated it on a scale of 1-10 on a variety of different aspects of the software. The aspects we evauluated were visibility of the system status, match between the system and the real world, user control and freedom, consistency and standards, error prevention, recognition rather than recall, flexibility and efficiency of use, helping users recognize, diagnose, and recover from errors, and lastly: help and documentation. Detailed notes were used to document the scores and justify them.
 
 ### Personas and Scenarios
-To gain perspective on who we were trying to provide a product for and what they might want to see in our product, we created Personas and scenarios
+Next, we created a series of personas and scenarios where we hypothesized about how users may interact / respond to our software. We gave them distinct personalities for the personas and created unique situations for the scenarios to better understand who, what, and how others will interact with our software.
 - Personas - A fictional person based on the information we have that represents someone who would be interested in our prodect.
 - Scenarios - Situations based on a persona where there is a need that we could provide for the user.
 
@@ -26,6 +26,7 @@ To gain perspective on who we were trying to provide a product for and what they
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
 
 ### Competitive Analysis
+In our competitive analysis, the reason why we sought out one-time-buy, subscription, and open source DAWs is due to the common complaint that DAWs are too expensive, especially those with subscriptions, and we wanted to know what an expensive DAW would get you compared to a free, open source DAW. The difference in quality was large, but not unreconciliable, especially with the potential to build whatever you need with open source software. We also used the analysis to learn about the types of demographics that would be using our products. We determined that the target demographic for this product would be DJ's, producers, musicians, and audio engineers
 <table>
   <tr>
     <th> Products(s)</th>
@@ -95,6 +96,7 @@ To gain perspective on who we were trying to provide a product for and what they
 **Aesthetic and Minimalist Design** [5/10]: Wasn’t really sure if I should have given this a 10/10 or a 0/10. On one hand, it’s very cluttered with all the tools you can use for production that could be overwhelming for the user but for someone with more experience, it’s all visually represented by real world tools so if you have experience in production, it’s going to be much more clear what’s going on.
 
 ### [Personas and Scenarios](https://chicostate.github.io/ux-dawdle/personas/)
+As expected, all personas had something to do with a desire to create music or plugins of some sort. By doing this excersise, we were able to get a better understanding of what our prodcut will actually be, something to make and refine music with, not for exclusively mixing and mastering audio like some other DAWs. It gave us important insight on how people will use our product and helped refine our areas of focus for the UX side of the project.
 
 
 
@@ -105,5 +107,6 @@ To gain perspective on who we were trying to provide a product for and what they
 
 
 ## Caveats
+<!--!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!-->
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our work so far does come with its caveats. The most glaring one being that we are not involved in any capacity in the software development half of this project, other than attending a few of the meetings that the SE team has had so far. We also were not familiar with any of the research methods prior to using them. Another is that we have no user data to go off of, because we haven't demonstrated the MVP yet to the class. Also, none of us were familiar with using DAWs prior to this project, so most of our knowledge regarding DAW conventions and other such things were learned as we were going through the different research methods. 
