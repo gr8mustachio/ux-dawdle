@@ -22,14 +22,15 @@ The objective of our project is to create a DAWS program that is easily accessib
 
 * Competitive analysis revealed that other Digital Audio Workstation software can be too expensive for the quality of service the customer is receiving; software is either expensive and well crafted or reasonably budgeted and lacking in appearance and functionality.
 * Through Heuristic Evaluation of another software, it was observed that these sections were identified as weaknesses:
-  * error prevention:
-  * user control:
-  * aesthetic/ minimalistic design: 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
+ * error prevention: complex audio files can contain multiple errors without being detected.
+ * user control: falsely represented key binds; not every commonly used key bind will work in most DAWs.
+ * aesthetic/ minimalistic design: overwhelming as a result of cluttered workspace.
+* Personas and scenarios are assessments of what users are looking for:
+ * An affordable way to create music
+ * A software that is available on all devices
+ * An abundance on instruments
+* 
+ 
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
