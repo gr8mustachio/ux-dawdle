@@ -1,5 +1,4 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
+<!--!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!-->
 # DAWdle
 
 The objective of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface. A DAW is a digital audio workstation used to create, edit, and record music, used mostly by musicians, producers, and audio engineers. 
