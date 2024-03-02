@@ -21,6 +21,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 **Executive Summary**
 
 * Competitive analysis revealed that other Digital Audio Workstation software can be too expensive for the quality of service the customer is receiving. 
+
 *Through Heuristic Evaluation of another software, it was observed that these sections were identified as weaknesses:
   *error prevention -
   *user control -
