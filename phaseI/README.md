@@ -36,12 +36,12 @@ To gain perspective on who we were trying to provide a product for and what they
     <th>Platform</th>
   </tr>
   <tr>
-    <td>Image Line FL Studio</th>
-    <td>Available on desktop and mobile. Free trial</th>
-    <td>Full package bundle is expensive. Lowest tier doesn’t allow for recording and manipulating audio clips. Plugins cost money on top of the software</th>
-    <td>Depends on the version you get. Lowest tier seems to lack important features</th>
-    <td>$99-$500 one time fee</th>
-    <td>Windows, Apple, Android</th>
+    <td>Image Line FL Studio</td>
+    <td>Available on desktop and mobile. Free trial</td>
+    <td>Full package bundle is expensive. Lowest tier doesn’t allow for recording and manipulating audio clips. Plugins cost money on top of the software</td>
+    <td>Depends on the version you get. Lowest tier seems to lack important features</td>
+    <td>$99-$500 one time fee</td>
+    <td>Windows, Apple, Android</td>
   </tr>
   <tr>
     <td>ACID Pro 11</td>
