@@ -4,8 +4,8 @@
 The objective of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface. A DAW is a digital audio workstation used to create, edit, and record music, used mostly by musicians, producers, and audio engineers. 
 
 ## Methods
-
 <!-- !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!! -->
+
 ### Competitive Analysis
 We investigated 5 different products to gain insight about our competitors with the criteria of their strengths, weaknesses, quality level, price/cost, and which platforms they're available on.
 - Strengths - What do they do well that stands out against other competitors.
@@ -15,7 +15,26 @@ We investigated 5 different products to gain insight about our competitors with 
 - Platorm - what operating systems or devices can the product be used on.
 
 ### Heuristic Evaluation
-We evaluated out top competitor and did a more thorough investigation into the the features and public perception of the products. In this case, we evaluated FL Studio\
+We evaluated out top competitor and did a more thorough investigation into the the features and public perception of the products. In this case, we evaluated FL Studio
+
+### Personas and Scenarios
+To gain perspective on who we were trying to provide a product for and what they might want to see in our product, we created Personas and scenarios
+- Personas - A fictional person based on the information we have that represents someone who would be interested in our prodect.
+- Scenarios - Situations based on a persona where there is a need that we could provide for the user.
+
+## Findings
+<!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
+
+### Competitive Analysis
+| Products(s) | Strengths | Weaknesses | Quality level (low - high) | Price/ Cost | Platform |
+| :---------- | :-------: | :--------: | :------------------------: | :---------: | :------: |
+| Image Line FL Studio | Available on desktop and mobile. Free trial | Full package bundle is expensive. Lowest tier doesn’t allow for recording and manipulating audio clips. Plugins cost money on top of the software | Depends on the version you get. Lowest tier seems to lack important features.|$99-$500 one time fee|Windows, Apple, Android|
+|ACID Pro 11|Option for a subscription fee. Integrated app store for plugins/audio files.| Heavily marked up in price to increase the value of the discount. Only available on Windows. Doesn’t seem to support some of the more popular audio types.| Seems to be well like and easy for users to learn|$95.88/year|$110 - $3600 One time fee (Majorly discounted sales|Windows 10/11|
+|Reason|accurate live sampling|complicated user interface|Not the best quality in terms of daws however it gets the job done|$20 monthly subscription fee|$50-$500 one Time fee|Mac, Windows|
+|Ardour|Free, open source project, Free plugins|Doesn’t come with a large selection of instruments / goods, steep learning curve|Good, it’s very open ended and community driven, even if its a little basic|Free|Apple, Windows, Linux|
+|Garage Band|Wide variety of musical instruments|limited features|low quality, mainly used for beginners, professionals don’t use it. |Free on apple products |Mac|
+
+### Heuristic Evaluation
 **Visibility of System Status** [10/10]: When you open up a menu to modify something in some way, it pops up with a user interface and visual representation of settings to change.
 
 **Match Between System and the Real World** [10/10]: it relates ideas and concepts to things in the real world, such as terminology of music (base, treble, etc) and displays settings as nob/dials that relate to something you might see on a turntable.
@@ -32,17 +51,10 @@ We evaluated out top competitor and did a more thorough investigation into the t
 
 **Aesthetic and Minimalist Design** [5/10]: Wasn’t really sure if I should have given this a 10/10 or a 0/10. On one hand, it’s very cluttered with all the tools you can use for production that could be overwhelming for the user but for someone with more experience, it’s all visually represented by real world tools so if you have experience in production, it’s going to be much more clear what’s going on.
 
-
 ### Personas and Scenarios
-To gain perspective on who we were trying to provide a product for and what they might want to see in our product, we created Personas and scenarios
-- Personas - A fictional person based on the information we have that represents someone who would be interested in our prodect.
-- Scenarios - Situations based on a persona where there is a need that we could provide for the user.
 
 
 
-## Findings
-
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
 ## Conclusions
 
