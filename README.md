@@ -20,11 +20,11 @@ The objective of our project is to create a DAWS program that is easily accessib
 
 **Executive Summary**
 
-* Competitive analysis revealed that other Digital Audio Workstation software can be too expensive for the quality of service the customer is receiving.
+* Competitive analysis revealed that other Digital Audio Workstation software can be too expensive for the quality of service the customer is receiving; software is either expensive and well crafted or reasonably budgeted and lacking in appearance and functionality.
 * Through Heuristic Evaluation of another software, it was observed that these sections were identified as weaknesses:
-  * error prevention -
-  * user control -
-  * aesthetic/ minimalistic design - 
+  * error prevention:
+  * user control:
+  * aesthetic/ minimalistic design: 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
