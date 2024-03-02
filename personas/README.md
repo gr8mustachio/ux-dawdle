@@ -1,12 +1,16 @@
 # Personas
+
+![](Kendra.jpg)\
 Kendra: 23 year old female who just moved to L.A. to start her career as a DJ. Working as a local fry cook for 40hrs/week, she hopes it’s only temporary and she’ll soon be traveling the world. She likes a little bit of everything from techno, to country, to an array of different instruments.\
 Goals:\
-Combine different types of music he likes in new ways\
-Create a lot of music quickly to get his name out there\
-Share music with his fans
+Combine different types of music hse likes in new ways\
+Create a lot of music quickly to get her name out there\
+Share music with her fans
 
+![](Ryan.jpg)\
 Ryan: 38 year High School music teacher who offers private lessons after school. He knows that more people are making music on the computer these days and is interested in learning what it’s all about. He thinks maybe his talents will be able to make good music clips.
 
+![](Thomas.jpg)\
 Thomas: 19 year old male from Seattle who has had an interest in producing plugins for DAWs, but doesn’t have much of a name for himself. He has some experience with using plugins, but has never made one himself, and doesn’t have a lot of technical experience.  He wants to make and publish free plugins, but wants the coding aspect of plugin production to be either minimal or nonexistent.\
 Goals:\
 Make unique plugins available to all with minimum / no coding required\
