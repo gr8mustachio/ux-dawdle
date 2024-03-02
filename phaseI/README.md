@@ -26,13 +26,56 @@ To gain perspective on who we were trying to provide a product for and what they
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
 
 ### Competitive Analysis
-| Products(s) | Strengths | Weaknesses | Quality level (low - high) | Price/ Cost | Platform |
-| :---------- | :-------: | :--------: | :------------------------: | :---------: | :------: |
-| Image Line FL Studio | Available on desktop and mobile. Free trial | Full package bundle is expensive. Lowest tier doesn’t allow for recording and manipulating audio clips. Plugins cost money on top of the software | Depends on the version you get. Lowest tier seems to lack important features.|$99-$500 one time fee|Windows, Apple, Android|
-|ACID Pro 11|Option for a subscription fee. Integrated app store for plugins/audio files.| Heavily marked up in price to increase the value of the discount. Only available on Windows. Doesn’t seem to support some of the more popular audio types.| Seems to be well like and easy for users to learn|$95.88/year|$110 - $3600 One time fee (Majorly discounted sales|Windows 10/11|
-|Reason|accurate live sampling|complicated user interface|Not the best quality in terms of daws however it gets the job done|$20 monthly subscription fee|$50-$500 one Time fee|Mac, Windows|
-|Ardour|Free, open source project, Free plugins|Doesn’t come with a large selection of instruments / goods, steep learning curve|Good, it’s very open ended and community driven, even if its a little basic|Free|Apple, Windows, Linux|
-|Garage Band|Wide variety of musical instruments|limited features|low quality, mainly used for beginners, professionals don’t use it. |Free on apple products |Mac|
+<table>
+  <tr>
+    <th> Products(s)</th>
+    <th>Strengths</th>
+    <th>Weaknesses</th>
+    <th>Quality level (low - high)</th>
+    <th>Price/ Cost</th>
+    <th>Platform</th>
+  </tr>
+  <tr>
+    <td>Image Line FL Studio</th>
+    <td>Available on desktop and mobile. Free trial</th>
+    <td>Full package bundle is expensive. Lowest tier doesn’t allow for recording and manipulating audio clips. Plugins cost money on top of the software</th>
+    <td>Depends on the version you get. Lowest tier seems to lack important features</th>
+    <td>$99-$500 one time fee</th>
+    <td>Windows, Apple, Android</th>
+  </tr>
+  <tr>
+    <td>ACID Pro 11</td>
+    <td>Option for a subscription fee. Integrated app store for plugins/audio files.</td>
+    <td>Heavily marked up in price to increase the value of the discount. Only available on Windows. Doesn’t seem to support some of the more popular audio types.</td>
+    <td>Seems to be well like and easy for users to learn</td>
+    <td>$95.88/year or $110 - $3600 One time fee (Majorly discounted sales</td>
+    <td>Windows 10/11</td>
+  </tr>
+  <tr>
+    <td>Reason</td>
+    <td>accurate live sampling</td>
+    <td>complicated user interface</td>
+    <td>Not the best quality in terms of daws however it gets the job done</td>
+    <td>$20 monthly subscription fee or $50-$500 one Time fee</td>
+    <td>Mac, Windows</td>
+  </tr>
+  <tr>
+    <td>Ardour</td>
+    <td>Free, open source project, Free plugins</td>
+    <td>Doesn’t come with a large selection of instruments / goods, steep learning curve</td>
+    <td>Good, it’s very open ended and community driven, even if its a little basic</td>
+    <td>Free</td>
+    <td>Apple, Windows, Linux</td>
+  </tr>
+  <tr>
+    <td>Garage Band</td>
+    <td>Wide variety of musical instruments</td>
+    <td>limited features</td>
+    <td>low quality, mainly used for beginners, professionals don’t use it</td>
+    <td>Free on apple products</td>
+    <td>Mac</td>
+  </tr>
+</table>
 
 ### Heuristic Evaluation
 **Visibility of System Status** [10/10]: When you open up a menu to modify something in some way, it pops up with a user interface and visual representation of settings to change.
