@@ -29,7 +29,10 @@ The objective of our project is to create a DAWS program that is easily accessib
   * An affordable way to create music
   * A software that is available on all devices
   * An abundance of instruments
-* 
+* sketches and diagrams display important features of the program that could be what a user is looking for:
+   * a specific instrument not featured on another software
+   * simplified user interface accessible to all proficiencies
+   * software that offers a broad spectrum of tools to enhance music
  
 [Full phase I report](phaseI/)
 
