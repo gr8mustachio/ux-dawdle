@@ -51,14 +51,15 @@ To gain perspective on who we were trying to provide a product for and what they
 
 **Aesthetic and Minimalist Design** [5/10]: Wasn’t really sure if I should have given this a 10/10 or a 0/10. On one hand, it’s very cluttered with all the tools you can use for production that could be overwhelming for the user but for someone with more experience, it’s all visually represented by real world tools so if you have experience in production, it’s going to be much more clear what’s going on.
 
-### Personas and Scenarios
+### [Personas and Scenarios](https://chicostate.github.io/ux-dawdle/personas/)
 
 
 
 
 ## Conclusions
+<!--!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!-->
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+
 
 ## Caveats
 
