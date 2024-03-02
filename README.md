@@ -10,8 +10,6 @@ The objective of our project is to create a DAWS program that is easily accessib
 * **[Dylan Hall](https://github.com/ChicoState/ux-personal-portfolio-zynkz)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Methods, Findings, Conclusion
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
