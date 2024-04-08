@@ -5,13 +5,8 @@
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
 
 ## Methods
-Methods:
-List each research method used during this sprint; for each method describe the following:
-Cognitive walkthrough ( external evaluator)
-Which documents and/or assignments contain the specific details for replicating that method?
-Wireframes
-How many people were involved in providing data for that method?
-Three responses 
+
+During the second phase, our UX team utilized cognitive walkthroughs to analyze the quality of our DAWS, the goal is to provide our users with an easy to use software, and by using our personas and scenarios from our previous phase we were able to create wireframes using some of their needs in mind. 
 
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
