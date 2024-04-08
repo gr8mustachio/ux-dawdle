@@ -6,7 +6,7 @@
 
 ## Methods
 
-During the second phase, our UX team utilized cognitive walkthroughs to analyze the quality of our DAWS, the goal is to provide our users with an easy to use software, and by using our personas and scenarios from our previous phase we were able to create wireframes using some of their needs in mind. 
+During the second phase, our UX team utilized cognitive walkthroughs to analyze the quality of our DAWS. The goal is to provide our users with an easy to use software, and by using our personas and scenarios from our previous phase we were able to create wireframes using some of their needs in mind. The cognitive walkthroughs are taken from an external evaluator, someone else who is looking for a specitify goal and is trying to execute that goal using our wireframes, if the goal was met then the wire frames were useful however if they did not meet the intended goal then changes would have to be made.
 
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
