@@ -6,7 +6,7 @@
 
 ## Methods
 
-During the second phase, our UX team utilized cognitive walkthroughs to analyze the quality of our DAWS. The goal is to provide our users with an easy to use software, and by using our personas and scenarios from our previous phase we were able to create wireframes using some of their needs in mind. The cognitive walkthroughs are taken from an external evaluator, someone else who is looking for a specific goal and is trying to execute that goal using our wireframes, if the goal was met then the wireframes were useful however if they did not meet the intended goal then changes would have to be made.
+During the second phase, our UX team utilized cognitive walkthroughs to analyze the quality of our DAWS. The goal is to provide our users with easy-to-use software, and by using our personas and scenarios from our previous phase we were able to create wireframes using some of their needs in mind. The purpose of these wireframes is to reveal the main features of the software and in certain cases depict how the software should be navigated. The cognitive walkthroughs are taken from an external evaluator, someone else who is looking to execute a specific goal, if the goal was met then the wireframes were created properly, however, if they did not meet the intended goal then changes would have to be made.
 
 ## Findings
 Findings:
