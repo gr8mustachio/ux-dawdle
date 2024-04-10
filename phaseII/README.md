@@ -14,8 +14,8 @@ While performing the cognitive walk-throughs, three tests were conducted by exte
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Thanks to our wireframes and cognitive walkthroughs along with communications with our SE counterparts we were able to get a better idea of what the end product should look like. Our wireframes didn't convey appropriatly that DAWdle uses a "node based system", it just looked like your typical DAW following industry conventions, which are project certianly isn't. Going forward we are going to alter our existing wireframes to reflect the node based nature of DAWdle, things like added lines to show the relationships between the different parts of the DAW, as well as showing that the piano roll is just a single node that can expanded to configure, customize, and make melodies on. Overall, our findings made us realize that we should actually be pushing the envelope on breaking some DAW conventions, as we want to highlight our unique node based system rather than obfuscate it in conventions. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The largest caveat is that we only had two cognitive walkthroughs, so we were working with less than many other groups in the class. Also, at times we didn't get important information from our SE teams until we asked for it, but the response back with the relevant info was always prompt so it never really became an issue. Other than that, there aren't really any more caveats to consider for DAWdle this sprint. 
