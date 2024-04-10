@@ -1,2 +1,2 @@
 # Wireframes
-![](Wireframes - DAWdle.png)\
+![](Wireframes_DAWdle.png)
