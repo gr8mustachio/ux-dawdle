@@ -40,10 +40,17 @@ The objective of our project is to create a DAWS program that is easily accessib
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
+<!--* !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* !!!as an executive would understand.!!!-->
+* Cognitive walkthroughs of our software revealed the flaws in our software. By allowing the users to have a set goal and letting them navigate the software as if they were using a competitor's, it gives our UX team feedback directly from the user on how easy it is to use the software.
+* Through the cognitive walkthroughs, it was observed that these sections were identified as weaknesses:
+  * The inability to create a login to save their work
+  * The lack of navigation between creation tools
+  * The inability to install and use plugins
+  * Users found in unclear how nobs/dials effect sound clips
+
 
 [Full phase II report](phaseII/)
 
