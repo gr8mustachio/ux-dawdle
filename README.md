@@ -36,7 +36,7 @@ The objective of our project is to create a DAWS program that is easily accessib
  
 [Full phase I report](phaseI/)
 
-# Phase II: Refining interaction and designing wireframes
+# Phase II: Usability Evaluations
 
 **Executive Summary**
 
