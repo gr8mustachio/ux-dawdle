@@ -14,7 +14,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototype/)
+* [Prototype](prototype/prototype_dawdle.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
