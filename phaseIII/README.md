@@ -6,7 +6,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 ## Methods
 
 ### Protocol
-For our background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allows us to guage the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees.
+For our background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allows us to guage the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
   - How many years have you been using DAW software?
   - Do you have more experience with digital DAWS or physical DAWS?
