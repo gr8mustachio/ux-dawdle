@@ -34,6 +34,10 @@ For our tasks, we tried to create a scenario for each of the main features of ou
   - Are there any changes you would recommend?
     - This was to get the opinion of the user of how changes can be made to better suit their needs.
 
+### Evaluation Approach
+When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to give the user the opportunity to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this types of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
+For evaluation, we took a summative approach, recording whether or not the task was completed and how difficult they found the task, using a 5-point likert scale, resulting in quantitative date. We also asked the user a series of questions relating to how they felt about the tasks, resulting in qualitative data.
+
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
 
 ## Findings
