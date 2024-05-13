@@ -5,6 +5,8 @@
 The objective of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface. In Phase III the goal is to 
 ## Methods
 
+<!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
+
 ### Protocol
 For our background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allows us to guage the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
@@ -38,11 +40,12 @@ For our tasks, we tried to create a scenario for each of the main features of ou
 When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to give the user the opportunity to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this types of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
 For evaluation, we took a summative approach, recording whether or not the task was completed and how difficult they found the task, using a 5-point likert scale, resulting in quantitative date. We also asked the user a series of questions relating to how they felt about the tasks, resulting in qualitative data.
 
-<!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
-
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+<!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
+
+### Data Summary
+
 
 ## Conclusions
 
@@ -50,4 +53,6 @@ For evaluation, we took a summative approach, recording whether or not the task 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+<!--!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
+
+During this study, we were limited on our user base, given we could only get users that were part of our class and didn't have control over screening a userbase that would reflect our desired demographic. Given that the students are all part of a UX team, they are more likely to be familiar with standard in the field and not entirely representative of the average user.
