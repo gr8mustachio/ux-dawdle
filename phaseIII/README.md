@@ -24,14 +24,13 @@ Objective:
 DAWdle?
 
 Screening:    
-Want:
-* People with a range of experience with DAW software
-* People with a range of experience with making music outside of DAW
-software
-* People of all ages
+  - Want:
+    - People with a range of experience with DAW software
+    - People with a range of experience with making music outside of DAW software
+    - People of all ages
  
-Don’t want:
-* People without an interest in music
+  - Don’t want:
+    - People without an interest in music
 
 Study Design:
 1. There will be 2 different builds of the prototype to evaluate
@@ -41,28 +40,27 @@ Study Design:
 5. There will be a survey they can fill out during the study
 
 Methods:  
-Introduction and background:  
-a. How old are you?  
-b. What is your job/career  
-c. How many years have you been using DAW software  
+  - Introduction and background:
+    - How old are you?  
+    - What is your job/career  
+    - How many years have you been using DAW software  
 
 Tasks:  
-a. Open DAWdle  
-b. Navigate to the sound clip maker  
-c. Create a sound clip however you’d like  
-d. Save your sound clip  
-e. Navigate to the song creator  
-f. Load your sound clip  
-g. Add and effect to the sound clip  
-h. Save the song  
+  - Open DAWdle  
+  - Navigate to the sound clip maker  
+  - Create a sound clip however you’d like  
+  - Save your sound clip  
+  - Navigate to the song creator  
+  - Load your sound clip  
+  - Add and effect to the sound clip  
+  - Save the song  
 
 Debrief and Conclusion:  
-a. Were you able to complete your task?  
-b. Which tasks did you find the most difficult?  
-c. Which tasks did you find the least difficult?  
-d. If you’ve used DAW software previously, how does it compare to your
-experience today?  
-e. Are there any changes you would recommend?  
+  - Were you able to complete your task?  
+  - Which tasks did you find the most difficult?  
+  - Which tasks did you find the least difficult?  
+  - If you’ve used DAW software previously, how does it compare to your experience today?  
+  - Are there any changes you would recommend?  
 
 ### Protocol
 
