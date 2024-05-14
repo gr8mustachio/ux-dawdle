@@ -58,9 +58,9 @@ The objective of our project is to create a DAWS program that is easily accessib
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
+<!--* !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* !!!as an executive would understand.!!!-->
 
 [Full phase III report](phaseIII/)
