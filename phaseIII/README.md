@@ -45,10 +45,6 @@ For evaluation, we took a summative approach, recording whether or not the task 
 
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
 
-## Findings
-
-<!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
-
 ### Data Summary
 Participant Experience:
   1. 3 years of experience in FL Studio, Garage Band, Vacuum Track
@@ -76,10 +72,6 @@ Task 3
   - Success: 5/5
   - Difficulty: 4.4 +- 0.5
   - People generally liked this feature. No negative comments.
-
-### Spreadsheet
-
-### Data Summary
 
 ### Spreadsheet
 
