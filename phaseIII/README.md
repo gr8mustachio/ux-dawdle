@@ -8,7 +8,63 @@ Throughout each phase, the goal of our project is to create a DAWS program that 
 
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
 
+### Usability Test Plan
+
+[Protocol](<https://chicostate.github.io/ux-dawdle/phaseIII/x18 Draft protocol.pdf>)
+
+Objective:
+
+* Is the User able to make a sound clip?
+* Is the user able to save their sound clip?
+* Is the user able to use sound clips to produce a song?
+  * Is the user able to locate the sound clips they want to use?
+  * How easy was it to load sound clips into the song they’re making?
+* Is the user able to locate which tool they want to use?
+* Does your experience with DAW software make it easier or harder to learn
+DAWdle?
+
+Screening:    
+  - Want:
+    - People with a range of experience with DAW software
+    - People with a range of experience with making music outside of DAW software
+    - People of all ages
+ 
+  - Don’t want:
+    - People without an interest in music
+
+Study Design:
+1. There will be 2 different builds of the prototype to evaluate
+2. We will be using a between-subject design to form groups
+3. Each group will be given different versions of the prototype
+4. The order of the tasks will be the same within groups
+5. There will be a survey they can fill out during the study
+
+Methods:  
+  - Introduction and background:
+    - How old are you?  
+    - What is your job/career  
+    - How many years have you been using DAW software  
+
+Tasks:  
+  - Open DAWdle  
+  - Navigate to the sound clip maker  
+  - Create a sound clip however you’d like  
+  - Save your sound clip  
+  - Navigate to the song creator  
+  - Load your sound clip  
+  - Add and effect to the sound clip  
+  - Save the song  
+
+Debrief and Conclusion:  
+  - Were you able to complete your task?  
+  - Which tasks did you find the most difficult?  
+  - Which tasks did you find the least difficult?  
+  - If you’ve used DAW software previously, how does it compare to your experience today?  
+  - Are there any changes you would recommend?  
+
 ### Protocol
+
+[IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
 For the background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allowed the team to gauge the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
   - How many years have you been using DAW software?
