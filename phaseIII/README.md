@@ -62,7 +62,6 @@ experience today?
 e. Are there any changes you would recommend?  
 
 ### Protocol
-[IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
 
 For the background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allowed the team to gauge the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
@@ -91,6 +90,8 @@ For our tasks, we tried to create a scenario for each of the main features of ou
     - This was to get a comparison of our product to products used in our shared market space.
   - Are there any changes you would recommend?
     - This was to get the opinion of the user of how changes can be made to better suit their needs.
+
+[IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
 
 ### Evaluation Approach
 When using the product, we requested the user to focus on the task at hand and hold all comments until the end of the task. This was to give the user the opportunity to use the software as they would when using it in their personal life and allow them to focus and not have to worry about needing to speak or share thoughts they otherwise might not. The idea behind taking this approach is that this types of software tends to have a learning curve and we didn't want to add additional frustration when trying to learn and discover. 
