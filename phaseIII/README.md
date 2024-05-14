@@ -8,6 +8,59 @@ Throughout each phase, the goal of our project is to create a DAWS program that 
 
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
 
+### Usability Test Plan
+Objective:
+
+* Is the User able to make a sound clip?
+* Is the user able to save their sound clip?
+* Is the user able to use sound clips to produce a song?
+  * Is the user able to locate the sound clips they want to use?
+  * How easy was it to load sound clips into the song they’re making?
+* Is the user able to locate which tool they want to use?
+* Does your experience with DAW software make it easier or harder to learn
+DAWdle?
+
+Screening:    
+Want:
+* People with a range of experience with DAW software
+* People with a range of experience with making music outside of DAW
+software
+* People of all ages
+ 
+Don’t want:
+* People without an interest in music
+
+Study Design:
+1. There will be 2 different builds of the prototype to evaluate
+2. We will be using a between-subject design to form groups
+3. Each group will be given different versions of the prototype
+4. The order of the tasks will be the same within groups
+5. There will be a survey they can fill out during the study
+
+Methods:  
+Introduction and background:  
+a. How old are you?  
+b. What is your job/career  
+c. How many years have you been using DAW software  
+
+Tasks:  
+a. Open DAWdle  
+b. Navigate to the sound clip maker  
+c. Create a sound clip however you’d like  
+d. Save your sound clip  
+e. Navigate to the song creator  
+f. Load your sound clip  
+g. Add and effect to the sound clip  
+h. Save the song  
+
+Debrief and Conclusion:  
+a. Were you able to complete your task?  
+b. Which tasks did you find the most difficult?  
+c. Which tasks did you find the least difficult?  
+d. If you’ve used DAW software previously, how does it compare to your
+experience today?  
+e. Are there any changes you would recommend?  
+
 ### Protocol
 [IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
 
