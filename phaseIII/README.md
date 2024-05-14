@@ -73,7 +73,7 @@ Task 3
   - Difficulty: 4.4 +- 0.5
   - People generally liked this feature. No negative comments.
 
-### Spreadsheet
+[Spreadsheet](<https://chicostate.github.io/ux-dawdle/phaseIII/User Test Data Collection - DAWdle.pdf>)
 
 
 ## Conclusions
