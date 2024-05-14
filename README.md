@@ -62,9 +62,20 @@ The objective of our project is to create a DAWS program that is easily accessib
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!-->
+<!--* !!!In a bullet-list, provide a summary that highlights...!!!
+* !!!What you've done during this phase...!!!
+* !!!and what the significance of it is...!!!
+* !!!as an executive would understand.!!!-->
 * Usability Test plan
-* CITI Training
+  * Allows the team to write specific objectives of things the team wants to learn from the users, this can be completed through their direct feedback AND by observing their behavior.
+  * Helps specify what screening criteria will be used to ensure that participants are good candidates to complete tests.
+  * Describes how the tests are designed for the study.
+* Tests can explore how well the users can do the following:
+  * Ability to complete different tasks (effectiveness) in different situations
+  * How efficiently can users complete the tasks
+  * How satisfied are users with using the app to complete certain tasks
 * Draft protocol
+ * 
 * IRB Submission
 
   
