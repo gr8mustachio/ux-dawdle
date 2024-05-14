@@ -7,7 +7,7 @@ The objective of our project is to create a DAWS program that is easily accessib
 
 * **[Reynaldo Cuesta](https://github.com/ChicoState/ux-personal-portfolio-rccuesta)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Methods, Findings, Executive summary
 * **[Liam Smith](https://github.com/ChicoState/ux-personal-portfolio-gr8mustachio)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Methods, Findings, Caveats
-* **[Dylan Hall](https://github.com/ChicoState/ux-personal-portfolio-zynkz)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Methods, Findings, Conclusion
+* **[Dylan Hall](https://github.com/ChicoState/ux-personal-portfolio-zynkz)** - Competitive Analysis, Heuristic Evaluation, Personas and Scenarios, Methods, Findings, Conclusion, Prototype Design/Components, Moderating User Tests
 
 # User-Centered Design Artifacts
 
