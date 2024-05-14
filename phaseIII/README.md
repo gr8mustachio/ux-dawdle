@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The objective of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface at little to no cost. In Phase III the goal is to use the data from Phase II to build a working prototype that individuals can use to give the usability team more feedback to further improve the software.
+Throughout each phase, the goal of our project is to create a DAWS program that is easily accessible to users of all levels while giving a diverse instrument reservoir and a simple user interface at little to no cost. In Phase III the objective is to use the data from Phase II to build a working prototype that individuals can use to test the software. The data acquired from these tests will give the usability team more feedback to further improve the software. The build-up to the tests will require a final prototype, draft protocol, usability test plan, CITI Training, IRB Submission, and pilot tests; each of these requirements will allow us to collect data and analyze it to understand how effective our prototype is.
 
 ## Methods
 
