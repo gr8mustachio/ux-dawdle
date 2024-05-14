@@ -9,8 +9,6 @@ Throughout each phase, the goal of our project is to create a DAWS program that 
 <!--!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!-->
 
 ### Protocol
-[IRB Form](<https://chicostate.github.io/ux-dawdle/phaseIII/studentform_classroomprojects_20211.pdf>)
-
 For the background questions, the intent was to gain perspective on what kind of experiences the user has using DAW software. This was useful because it allowed the team to gauge the usability of the product for new users picking up this type of software for the first time and uses who have used this types of software in the past, to varying degrees. The user was given 30 minutes to complete each task
 - Background:
   - How many years have you been using DAW software?
@@ -54,6 +52,8 @@ Participant Experience:
   3. No experience
   4. 6 Years of experience with LMMS, FL Studio
   5. 2 years of experience with Garage Band, various others
+  6. 13 years experience with FL Studio, Ableton
+  7. About a weeks worth of experience with FL Studio
 
 General Feedback
   - Needs more visual feedback
@@ -61,18 +61,18 @@ General Feedback
   - Needs visual feedback on which feature currently in use
 
 Task 1
-  - Success: 4/5
-  - Difficulty: 3.6 +- 1.3
+  - Success: 6/7
+  - Difficulty: 3.9 +- 0.5
   - Difficult to find the save option located in the file menu. File menu isn't easily recognized as a menu. Appears to be a logo.
 
 Task 2
-  - Success: 5/5
-  - Difficulty: 4.0 +- 0.8
-  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween.
+  - Success: 7/7
+  - Difficulty: 4.0 +- 0.4
+  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween. Some users found the slider menu intrusive and wished for it to be adjustable so other things could be displayed on the screen simultainiously
 
 Task 3
-  - Success: 5/5
-  - Difficulty: 4.4 +- 0.5
+  - Success: 7/7
+  - Difficulty: 4.6 +- 0.2
   - People generally liked this feature. No negative comments.
 
 [Spreadsheet](<https://chicostate.github.io/ux-dawdle/phaseIII/User Test Data Collection - DAWdle.pdf>)
@@ -86,4 +86,4 @@ Task 3
 
 <!--!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!! -->
 
-During this study, we were limited on our user base, given we could only get users that were part of our class and didn't have control over screening a userbase that would reflect our desired demographic. Given that the students are all part of a UX team, they are more likely to be familiar with standard in the field and not entirely representative of the average user.
+During this study, we were limited on our user base, given we could only get users that were part of our class and didn't have control over screening a userbase that would reflect our desired demographic. Given that the students are all part of a UX team, they are more likely to be familiar with standard in the field and not entirely representative of the average user. If the test pool were made up of music undergrads, then perhaps we would have gotten more meaningful feedback to take back to our SE team. Because with our test pool we were limited to people who used DAWs as part of a hobby, and not their career. 
