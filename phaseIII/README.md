@@ -45,6 +45,40 @@ For evaluation, we took a summative approach, recording whether or not the task 
 
 <!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
 
+## Findings
+
+<!--!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!-->
+
+### Data Summary
+Participant Experience:
+  1. 3 years of experience in FL Studio, Garage Band, Vacuum Track
+  2. Some experience with Logic Pro, Ableton, FL Studio
+  3. No experience
+  4. 6 Years of experience with LMMS, FL Studio
+  5. 2 years of experience with Garage Band, various others
+
+General Feedback
+  - Needs more visual feedback
+  - Needs better call to action. Eyes not drawn to features
+  - Needs visual feedback on which feature currently in use
+
+Task 1
+  - Success: 4/5
+  - Difficulty: 3.6 +- 1.3
+  - Difficult to find the save option located in the file menu. File menu isn't easily recognized as a menu. Appears to be a logo.
+
+Task 2
+  - Success: 5/5
+  - Difficulty: 4.0 +- 0.8
+  - Unclear how modifying the special effects are interacting with other features in the app. Needs better user feedback. Slider only represents 0 or 100 but nothing inbetween.
+
+Task 3
+  - Success: 5/5
+  - Difficulty: 4.4 +- 0.5
+  - People generally liked this feature. No negative comments.
+
+### Spreadsheet
+
 ### Data Summary
 
 ### Spreadsheet
