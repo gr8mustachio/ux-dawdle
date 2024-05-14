@@ -62,5 +62,8 @@ The objective of our project is to create a DAWS program that is easily accessib
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!-->
-
+* Usability Test plan
+* CITI Training
+* Draft protocol
+* IRB Submission
 [Full phase III report](phaseIII/)
